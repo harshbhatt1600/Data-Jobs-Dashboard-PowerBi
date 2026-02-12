@@ -1,6 +1,7 @@
 # Data Jobs Dashboard w/ Power BI
 
-![Data Jobs Dashboard Overview](images\Project1_Dashboard_Overview.gif)
+<img src="images/Project1_Dashboard_Overview.gif">
+
 ## Introduction
 
 This dashboard was built for **Job Seekers, Career Transitioners, and Data Professionals** to solve a common challenge: job market insights are often scattered, inconsistent, and difficult to interpret.
@@ -40,7 +41,8 @@ This project demonstrates an end-to-end Power BI workflow, covering data prepara
 
 ### Page 1: High-Level Market Overview
 
-![Data Jobs Dashboard Page 1](images\Project1_Dashboard_Page1.gif)
+![Data Jobs Dashboard Page 1](images/Project1_Dashboard_Page1.gif)
+
 
 This page serves as a comprehensive snapshot of the data job market. It highlights key KPIs such as total job count, median salaries, and top-paying roles. Users can analyze hiring trends throughout 2024, compare salary levels across job titles, and explore global job distribution — all within a single, interactive view.
 
@@ -48,7 +50,8 @@ This page serves as a comprehensive snapshot of the data job market. It highligh
 
 ### Page 2: Job Title Drill-Through Analysis
 
-![Data Jobs Dashboard Page 2](images\Project1_Dashboard_Page2.gif)
+![Data Jobs Dashboard Page 2](images/Project1_Dashboard_Page2.gif)
+
 
 This page provides a focused, role-specific deep dive. By drilling through from the main dashboard, users can analyze:
 
